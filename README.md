@@ -1,9 +1,10 @@
 <h1><p align="center"> Jrew Simpson 👋🌎 <a href="[https://www.linkedin.com/in/jrew-simpson/]"></a> </h1>
 <p align="center"> <img src="https://github.com/JrewSimpson/Banner/blob/c20d491a1f1768ddf40075f0f4ee6f472b0dd8ac/IMG_5832.jpg" height="50%" width="50%" alt="]"/>
-<!--
-**JrewSimpson/Jrewsimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b><p align="Left">🌌 About Me: I'm a Senior CIS student at the University of Louisville specializing in Cybersecurity. I've created this portfolio as a way to showcase my IT skills referencing projects from both personal and school work. I enjoy traveling, staying active, spending time with friends, and working with technology!</br>
 
-Here are some ideas to get you started:
+<h2> Resume:</h2>
+- [Resume](https://github.com/JrewSimpson/Resume/blob/3887bd2894a8c6625c57de9fb0dc3744191bccf0/Master_Resume.pdf)
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
