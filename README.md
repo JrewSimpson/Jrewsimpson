@@ -9,16 +9,16 @@
 - [Finance Sheet Calculations](https://github.com/JrewSimpson/Finance-Sheet-Calculations/blob/86faa7b0fcd7608f32f8e4777e50a813c408510e/Finance%20Sheets.pdf)
 - [Loan Amortization](https://github.com/JrewSimpson/Loan-Amortization)
 
-## 🔉  Communication Projects:
-- [CIS 320 Systems Design](https://github.com/JrewSimpson/CIS-320-Systems-Design)
-- [Ransomware Presentation](https://cardmaillouisville-my.sharepoint.com/:v:/g/personal/alstri02_louisville_edu/ETCEGmuodedEldI2rxe921oB5zp9nKrQfd9c7Sg-rYZPhg?e=A2xvjV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- [Case Study Report - Target](https://github.com/JrewSimpson/Case-Study-Report---Target/blob/c25b296fb10d3adb8a41570c9e7828074c698ed6/Case2.pdf)
-
 ## 👾  Coding Projects:
 - [Bike Prices](https://github.com/JrewSimpson/Bike-Prices)
 - [Cardinal Insurance Policy Calculator](https://github.com/JrewSimpson/Cardinal-Insurance)
 - [Hotel Check In](https://github.com/JrewSimpson/Hotel-Check-In)
 - [Mural Calculator](https://github.com/JrewSimpson/Mural-Calculator)
+
+## 🔉  Communication Projects:
+- [CIS 320 Systems Design](https://github.com/JrewSimpson/CIS-320-Systems-Design)
+- [Ransomware Presentation](https://cardmaillouisville-my.sharepoint.com/:v:/g/personal/alstri02_louisville_edu/ETCEGmuodedEldI2rxe921oB5zp9nKrQfd9c7Sg-rYZPhg?e=A2xvjV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [Case Study Report - Target](https://github.com/JrewSimpson/Case-Study-Report---Target/blob/c25b296fb10d3adb8a41570c9e7828074c698ed6/Case2.pdf)
 
 ## 🔉  Database Projects:
 - [CIS 310 - Data Normalization](https://github.com/JrewSimpson/CIS-310---Data-Normalization/blob/0b58582cb0a3d2c8631a4fe7b5ef4ea30542d9a8/CIS%20310%20A5_Jrew_Simpson(1).pdf)
