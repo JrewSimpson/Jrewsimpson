@@ -12,6 +12,7 @@
 ## 🔉  Communication Projects:
 - [CIS 320 Systems Design](https://github.com/JrewSimpson/CIS-320-Systems-Design)
 - [Ransomware Presentation](https://cardmaillouisville-my.sharepoint.com/:v:/g/personal/alstri02_louisville_edu/ETCEGmuodedEldI2rxe921oB5zp9nKrQfd9c7Sg-rYZPhg?e=A2xvjV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [Case Study Report - Target](https://github.com/JrewSimpson/Case-Study-Report---Target/blob/c25b296fb10d3adb8a41570c9e7828074c698ed6/Case2.pdf)
 <!--
 
 - 🔭 I’m currently working on ...
