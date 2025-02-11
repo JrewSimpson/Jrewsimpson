@@ -15,7 +15,10 @@
 - [Case Study Report - Target](https://github.com/JrewSimpson/Case-Study-Report---Target/blob/c25b296fb10d3adb8a41570c9e7828074c698ed6/Case2.pdf)
 
 ## 👾  Coding Projects:
-
+- [Bike Prices](https://github.com/JrewSimpson/Bike-Prices)
+- [Cardinal Insurance Policy Calculator](https://github.com/JrewSimpson/Bike-Prices)
+- [Hotel Check In](https://github.com/JrewSimpson/Bike-Prices)
+- [Mural Calculator](https://github.com/JrewSimpson/Bike-Prices)
 
 ## 🔉  Database Projects:
 - [CIS 310 - Data Normalization](https://github.com/JrewSimpson/CIS-310---Data-Normalization/blob/0b58582cb0a3d2c8631a4fe7b5ef4ea30542d9a8/CIS%20310%20A5_Jrew_Simpson(1).pdf)
