@@ -24,7 +24,7 @@
 - [CIS 310 - Data Normalization](https://github.com/JrewSimpson/CIS-310---Data-Normalization/blob/0b58582cb0a3d2c8631a4fe7b5ef4ea30542d9a8/CIS%20310%20A5_Jrew_Simpson(1).pdf)
 - [CIS 310 - Database Queries](https://github.com/JrewSimpson/CIS-310---Database-Queries/blob/f8c1550748e86b2a1fd0ff31be435812d8dce7a2/CIS%20310%20A6_Jrew_Simpson(1).pdf)
 
-## 💾  Technical Projects:
+## 💻 Technical Projects:
 - [Linux Firewall](https://github.com/JrewSimpson/Linux-Firewall/blob/014b7db0e04ee1157cfcde7f373d9481181cd1b2/Linux%20Firewall%20-%20SiJ.pdf)
 - [Network Simulation](https://github.com/JrewSimpson/Network-Simulation/blob/86bfc8b00d675e70dceb82ba1fa03ed78a2eef64/Network%20Simulation.pdf)
 <!--
