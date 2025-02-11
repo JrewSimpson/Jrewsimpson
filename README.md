@@ -13,6 +13,10 @@
 - [CIS 320 Systems Design](https://github.com/JrewSimpson/CIS-320-Systems-Design)
 - [Ransomware Presentation](https://cardmaillouisville-my.sharepoint.com/:v:/g/personal/alstri02_louisville_edu/ETCEGmuodedEldI2rxe921oB5zp9nKrQfd9c7Sg-rYZPhg?e=A2xvjV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - [Case Study Report - Target](https://github.com/JrewSimpson/Case-Study-Report---Target/blob/c25b296fb10d3adb8a41570c9e7828074c698ed6/Case2.pdf)
+
+## 🔉  Database Projects:
+- [CIS 310 - Data Normalization](https://github.com/JrewSimpson/CIS-310---Data-Normalization/blob/0b58582cb0a3d2c8631a4fe7b5ef4ea30542d9a8/CIS%20310%20A5_Jrew_Simpson(1).pdf)
+- [CIS 310 - Database Queries](https://github.com/JrewSimpson/CIS-310---Database-Queries/blob/f8c1550748e86b2a1fd0ff31be435812d8dce7a2/CIS%20310%20A6_Jrew_Simpson(1).pdf)
 <!--
 
 - 🔭 I’m currently working on ...
