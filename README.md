@@ -1,6 +1,6 @@
 <h1><p align="center"> Jrew Simpson 👋🌎 </h1>
 <p align="center"> <img src="https://github.com/JrewSimpson/Banner/blob/c20d491a1f1768ddf40075f0f4ee6f472b0dd8ac/IMG_5832.jpg" height="50%" width="50%" alt="]"/>
-<b><p align="Left">🌌 About Me: I'm a Senior CIS student at the University of Louisville specializing in Cybersecurity. I've created this portfolio as a way to showcase my IT skills referencing projects from both personal and school work. I enjoy traveling, staying active, spending time with friends, and working with technology!</br>
+<b><p align="Left">🌌 About Me: I'm a Senior CIS student at the University of Louisville specializing in Cybersecurity. I've created this portfolio as a way to showcase my IT skills by referencing projects from both personal and school work. I enjoy traveling, staying active, spending time with friends, and working with technology!</br>
 
 ## 📄 Resume:
 - [Resume](https://github.com/JrewSimpson/Resume/blob/main/Master_Resume.pdf)
