@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<h1><p align="center"> Jrew Simpson 👋🌎 <a href="[https://www.linkedin.com/in/jrew-simpson/]"></a> </h1>
+<p align="center"> <img src="https://github.com/JrewSimpson/Banner/blob/c20d491a1f1768ddf40075f0f4ee6f472b0dd8ac/IMG_5832.jpg" height="50%" width="80%" alt="]"/>
 <!--
 **JrewSimpson/Jrewsimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
