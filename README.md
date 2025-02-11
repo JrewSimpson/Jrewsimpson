@@ -3,7 +3,7 @@
 <b><p align="Left">🌌 About Me: I'm a Senior CIS student at the University of Louisville specializing in Cybersecurity. I've created this portfolio as a way to showcase my IT skills referencing projects from both personal and school work. I enjoy traveling, staying active, spending time with friends, and working with technology!</br>
 
 <h2> Resume:</h2>
-- [Resume](https://github.com/JrewSimpson/Resume/blob/3887bd2894a8c6625c57de9fb0dc3744191bccf0/Master_Resume.pdf)
+[Resume](https://github.com/JrewSimpson/Resume/blob/main/Master_Resume.pdf)
 <!--
 
 - 🔭 I’m currently working on ...
