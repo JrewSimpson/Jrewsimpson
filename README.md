@@ -16,7 +16,7 @@
 
 ## 👾  Coding Projects:
 - [Bike Prices](https://github.com/JrewSimpson/Bike-Prices)
-- [Cardinal Insurance Policy Calculator](https://github.com/JrewSimpson/Bike-Prices)
+- [Cardinal Insurance Policy Calculator](https://github.com/JrewSimpson/Cardinal-Insurance)
 - [Hotel Check In](https://github.com/JrewSimpson/Bike-Prices)
 - [Mural Calculator](https://github.com/JrewSimpson/Bike-Prices)
 
