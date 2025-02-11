@@ -4,6 +4,10 @@
 
 ## Resume:
 - [Resume](https://github.com/JrewSimpson/Resume/blob/main/Master_Resume.pdf)
+
+## Analytical Projects:
+- [Finance Sheet Calculations](https://github.com/JrewSimpson/Finance-Sheet-Calculations/blob/86faa7b0fcd7608f32f8e4777e50a813c408510e/Finance%20Sheets.pdf)
+- [Loan Amortization](https://github.com/JrewSimpson/Loan-Amortization)
 <!--
 
 - 🔭 I’m currently working on ...
