@@ -5,6 +5,13 @@
 ## 📄 Resume:
 - [Resume](https://github.com/JrewSimpson/Resume/blob/main/Master_Resume.pdf)
 
+## 💻 System Administration Projects:
+- [Active Directory Setup & Management w/SQL Server Permissions](https://github.com/JrewSimpson/AD-Setup-Management)
+- [Linux Firewall](https://github.com/JrewSimpson/Linux-Firewall/blob/014b7db0e04ee1157cfcde7f373d9481181cd1b2/Linux%20Firewall%20-%20SiJ.pdf)
+- [Network Simulation](https://github.com/JrewSimpson/Network-Simulation/blob/86bfc8b00d675e70dceb82ba1fa03ed78a2eef64/Network%20Simulation.pdf)
+- [Linux Directory Operations](https://github.com/JrewSimpson/Linux-Directory-Operations/blob/27fbe1825f60253cd776d3cb8c074d13fa7aa5b4/CIS%20350%20Lab%205%20Report.pdf)
+- [Splunk - Monitoring & Detection](https://github.com/JrewSimpson/Splunk_BasicMonitoring/blob/4b4c3fae415f21a8f27c87801782a4e9280b5544/Splunk%20Monitoring%20Lab.pdf)
+  
 ## ➗ Analytical Projects:
 - [Finance Sheet Calculations](https://github.com/JrewSimpson/Finance-Sheet-Calculations/blob/86faa7b0fcd7608f32f8e4777e50a813c408510e/Finance%20Sheets.pdf)
 - [Loan Amortization](https://github.com/JrewSimpson/Loan-Amortization)
@@ -23,13 +30,6 @@
 ## 💾  Database Projects:
 - [CIS 310 - Data Normalization](https://github.com/JrewSimpson/CIS-310---Data-Normalization/blob/0b58582cb0a3d2c8631a4fe7b5ef4ea30542d9a8/CIS%20310%20A5_Jrew_Simpson(1).pdf)
 - [CIS 310 - Database Queries](https://github.com/JrewSimpson/CIS-310---Database-Queries/blob/f8c1550748e86b2a1fd0ff31be435812d8dce7a2/CIS%20310%20A6_Jrew_Simpson(1).pdf)
-
-## 💻 Technical Projects:
-- [Active Directory Setup & Management w/SQL Server Permissions](https://github.com/JrewSimpson/AD-Setup-Management)
-- [Linux Firewall](https://github.com/JrewSimpson/Linux-Firewall/blob/014b7db0e04ee1157cfcde7f373d9481181cd1b2/Linux%20Firewall%20-%20SiJ.pdf)
-- [Network Simulation](https://github.com/JrewSimpson/Network-Simulation/blob/86bfc8b00d675e70dceb82ba1fa03ed78a2eef64/Network%20Simulation.pdf)
-- [Linux Directory Operations](https://github.com/JrewSimpson/Linux-Directory-Operations/blob/27fbe1825f60253cd776d3cb8c074d13fa7aa5b4/CIS%20350%20Lab%205%20Report.pdf)
-- [Splunk - Monitoring & Detection](https://github.com/JrewSimpson/Splunk_BasicMonitoring/blob/4b4c3fae415f21a8f27c87801782a4e9280b5544/Splunk%20Monitoring%20Lab.pdf)
 
 ## 📚 Skills:
 
