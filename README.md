@@ -5,7 +5,7 @@
 ## 📄 Resume:
 - [Resume](https://github.com/JrewSimpson/Resume/blob/main/Master_Resume.pdf)
 
-## 💻 System Administration Projects:
+## 💻 Cybersecurity/System Administration Projects:
 - [Active Directory Setup & Management w/SQL Server Permissions](https://github.com/JrewSimpson/AD-Setup-Management)
 - [Linux Firewall](https://github.com/JrewSimpson/Linux-Firewall/blob/014b7db0e04ee1157cfcde7f373d9481181cd1b2/Linux%20Firewall%20-%20SiJ.pdf)
 - [Network Simulation](https://github.com/JrewSimpson/Network-Simulation/blob/86bfc8b00d675e70dceb82ba1fa03ed78a2eef64/Network%20Simulation.pdf)
