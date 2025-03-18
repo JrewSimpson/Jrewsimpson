@@ -17,7 +17,6 @@
 - [Loan Amortization](https://github.com/JrewSimpson/Loan-Amortization)
 
 ## 👾  Coding Projects:
-- [Bike Prices](https://github.com/JrewSimpson/Bike-Prices)
 - [Cardinal Insurance Policy Calculator](https://github.com/JrewSimpson/Cardinal-Insurance)
 - [Hotel Check In](https://github.com/JrewSimpson/Hotel-Check-In)
 - [Mural Calculator](https://github.com/JrewSimpson/Mural-Calculator)
