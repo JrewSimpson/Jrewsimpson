@@ -30,6 +30,7 @@
 ## 💾  Database Projects:
 - [CIS 310 - Data Normalization](https://github.com/JrewSimpson/CIS-310---Data-Normalization/blob/0b58582cb0a3d2c8631a4fe7b5ef4ea30542d9a8/CIS%20310%20A5_Jrew_Simpson(1).pdf)
 - [CIS 310 - Database Queries](https://github.com/JrewSimpson/CIS-310---Database-Queries/blob/f8c1550748e86b2a1fd0ff31be435812d8dce7a2/CIS%20310%20A6_Jrew_Simpson(1).pdf)
+- [SQL Injection w/Burp Suite](https://github.com/JrewSimpson/SQLi1_Burp)
 
 ## 📚 Skills:
 
