@@ -25,6 +25,7 @@
 - [CIS 310 - Database Queries](https://github.com/JrewSimpson/CIS-310---Database-Queries/blob/f8c1550748e86b2a1fd0ff31be435812d8dce7a2/CIS%20310%20A6_Jrew_Simpson(1).pdf)
 
 ## 💻 Technical Projects:
+- [Active Directory Setup & Management w/SQL Server Permissions](https://github.com/JrewSimpson/AD-Setup-Management)
 - [Linux Firewall](https://github.com/JrewSimpson/Linux-Firewall/blob/014b7db0e04ee1157cfcde7f373d9481181cd1b2/Linux%20Firewall%20-%20SiJ.pdf)
 - [Network Simulation](https://github.com/JrewSimpson/Network-Simulation/blob/86bfc8b00d675e70dceb82ba1fa03ed78a2eef64/Network%20Simulation.pdf)
 - [Linux Directory Operations](https://github.com/JrewSimpson/Linux-Directory-Operations/blob/27fbe1825f60253cd776d3cb8c074d13fa7aa5b4/CIS%20350%20Lab%205%20Report.pdf)
