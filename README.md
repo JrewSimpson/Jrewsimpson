@@ -8,7 +8,7 @@
 ## 💻 Cybersecurity & System Administration Projects:
 - [Active Directory Setup & Management w/SQL Server Permissions](https://github.com/JrewSimpson/AD-Setup-Management)
 - [Linux Firewall](https://github.com/JrewSimpson/Linux-Firewall/blob/014b7db0e04ee1157cfcde7f373d9481181cd1b2/Linux%20Firewall%20-%20SiJ.pdf)
-- [Managing Users Permissions in SQL Server Management Studio](https://github.com/JrewSimpson/UserPermissions_SQLServer/tree/main)
+- [Managing User & Group Permissions in SQL Server Management Studio](https://github.com/JrewSimpson/UserPermissions_SQLServer/tree/main)
 - [Network Simulation](https://github.com/JrewSimpson/Network-Simulation/blob/86bfc8b00d675e70dceb82ba1fa03ed78a2eef64/Network%20Simulation.pdf)
 - [Linux Directory Operations](https://github.com/JrewSimpson/Linux-Directory-Operations/blob/27fbe1825f60253cd776d3cb8c074d13fa7aa5b4/CIS%20350%20Lab%205%20Report.pdf)
 - [Scripting for Security in Windows](https://github.com/JrewSimpson/ScriptingForSecurity)
