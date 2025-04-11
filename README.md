@@ -13,7 +13,7 @@
 - [Network Simulation](https://github.com/JrewSimpson/Network-Simulation/blob/86bfc8b00d675e70dceb82ba1fa03ed78a2eef64/Network%20Simulation.pdf)
 - [Linux Directory Operations](https://github.com/JrewSimpson/Linux-Directory-Operations/blob/27fbe1825f60253cd776d3cb8c074d13fa7aa5b4/CIS%20350%20Lab%205%20Report.pdf)
 - [Scripting for Security in Windows](https://github.com/JrewSimpson/ScriptingForSecurity)
-- [Splunk - Monitoring & Detection](https://github.com/JrewSimpson/Splunk_BasicMonitoring/blob/4b4c3fae415f21a8f27c87801782a4e9280b5544/Splunk%20Monitoring%20Lab.pdf)
+- [Splunk - Monitoring & Detection](https://github.com/JrewSimpson/Splunk_BasicMonitoring)
   
 ## ➗ Analytical Projects:
 - [Finance Sheet Calculations](https://github.com/JrewSimpson/Finance-Sheet-Calculations/blob/86faa7b0fcd7608f32f8e4777e50a813c408510e/Finance%20Sheets.pdf)
