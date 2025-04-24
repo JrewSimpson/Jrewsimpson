@@ -4,6 +4,7 @@
 
 ## 📄 Resume:
 - [Resume](https://github.com/JrewSimpson/Resume/blob/main/Master_Resume.pdf)
+- [Hack the Box Transcript](https://github.com/JrewSimpson/HTB_Transcript/blob/main/HTB%20Academy%20Student%20Transcript.pdf)
 
 ## 💻 Cybersecurity & System Administration Projects:
 - [Active Directory Setup & Management w/SQL Server Permissions](https://github.com/JrewSimpson/AD-Setup-Management)
