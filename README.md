@@ -3,7 +3,7 @@
 <b><p align="Left">🌌 About Me: I'm a Senior CIS student at the University of Louisville specializing in Cybersecurity & System Administration. I've created this portfolio as a way to showcase my IT skills by referencing projects from my school work and free time. I enjoy traveling, staying active, spending time with friends, and working with technology!</br>
 
 ## 📄 Resume:
-- [Resume](https://github.com/JrewSimpson/Resume/blob/main/Master_Resume.pdf)
+- [Resume](https://github.com/JrewSimpson/Resume/blob/main/JrewS_CYBER_RESUME.pdf)
 - [Hack the Box Transcript](https://github.com/JrewSimpson/HTB_Transcript/blob/main/HTB%20Academy%20Student%20Transcript.pdf)
 
 ## 💻 Cybersecurity & System Administration Projects:
