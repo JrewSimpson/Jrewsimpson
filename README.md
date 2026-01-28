@@ -36,12 +36,12 @@
 ## 📚 Skills:
 
 <b><p align="Left"> 
-- <u>Certifications</u>: CompTIA Network+, CompTIA Security+, Google Cybersecurity Professional 
-- Programming Languages: Bash, SQL, C#, Splunk Query Language 
-- Security & Compliance: HIPAA, Patch Management, MITRE ATT&CK, SIEM Monitoring & Log Analysis, Endpoint Security 
-- Networking: TCP/IP, DNS, DHCP, OSI Model, VLANs, Routing, Switching, VLSM, Wireshark Analysis, Load Balancing 
-- IT Operations: End-User Support, Systems Troubleshooting, Incident Response Lifecycle, Citrix VDI/Thin Client Support 
-- Languages: English (Native), Spanish (Intermediate), Japanese (Beginner) </br> </br>
+- <ins>Certifications</ins>: CompTIA Network+, CompTIA Security+, Google Cybersecurity Professional 
+- <ins>Programming Languages</ins>: Bash, SQL, C#, Splunk Query Language 
+- <ins>Security & Compliance</ins>: HIPAA, Patch Management, MITRE ATT&CK, SIEM Monitoring & Log Analysis, Endpoint Security 
+- <ins>Networking</ins>: TCP/IP, DNS, DHCP, OSI Model, VLANs, Routing, Switching, VLSM, Wireshark Analysis, Load Balancing 
+- <ins>IT Operations</ins>: End-User Support, Systems Troubleshooting, Incident Response Lifecycle, Citrix VDI/Thin Client Support 
+- <ins>Languages</ins>: English (Native), Spanish (Intermediate), Japanese (Beginner) </br> </br>
 
 <!--
 
