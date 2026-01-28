@@ -35,9 +35,12 @@
 
 ## 📚 Skills:
 
-<b><p align="Left"> Soft Skills: Critical Thinking, Effective Communication, Time Management, Agile Methodology, Collaboration, Problem Solving, Troubleshooting, Adaptability, Proactivity </br> </br>
-Technical Skills: Microsoft Azure, Computer Networking, SQL, C#, Python, Wireshark, Microsoft Windows, Kali Linux, Ubuntu, Active Directory, Splunk, Tcpdump, ServiceNow, HTML/CSS, Metasploit, Docker, Virtual Machines, MFA, Visual Studio 2022, VDI Support, Camtasia </br> </br>
-Languages: English (Native), Spanish (Intermediate), Japanese (Beginner) </br> </br>
+<b><p align="Left"> Certifications | CompTIA Network+, CompTIA Security+, Google Cybersecurity Professional 
+Programming Languages | Bash, SQL, C#, Splunk Query Language 
+Security & Compliance | HIPAA, Patch Management, MITRE ATT&CK, SIEM Monitoring & Log Analysis, Endpoint Security 
+Networking | TCP/IP, DNS, DHCP, OSI Model, VLANs, Routing, Switching, VLSM, Wireshark Analysis, Load Balancing 
+IT Operations | End-User Support, Systems Troubleshooting, Incident Response Lifecycle, Citrix VDI/Thin Client Support 
+Languages | English (Native), Spanish (Intermediate), Japanese (Beginner) </br> </br>
 
 <!--
 
