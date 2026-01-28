@@ -36,7 +36,7 @@
 ## 📚 Skills:
 
 <b><p align="Left"> 
-- <ins>Certifications</ins>: CompTIA Network+, CompTIA Security+, Google Cybersecurity Professional 
+- <ins>**Certifications**</ins>: CompTIA Network+, CompTIA Security+, Google Cybersecurity Professional 
 - <ins>Programming Languages</ins>: Bash, SQL, C#, Splunk Query Language 
 - <ins>Security & Compliance</ins>: HIPAA, Patch Management, MITRE ATT&CK, SIEM Monitoring & Log Analysis, Endpoint Security 
 - <ins>Networking</ins>: TCP/IP, DNS, DHCP, OSI Model, VLANs, Routing, Switching, VLSM, Wireshark Analysis, Load Balancing 
